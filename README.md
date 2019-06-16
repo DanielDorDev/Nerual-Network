@@ -18,7 +18,7 @@
 | 8 | Bag |
 | 9 | Ankle boot |
 
-![](fashion-mnist-sprite.png)
+![](doc/img/fashion-mnist-sprite.png)
 
 ## Data used
 
