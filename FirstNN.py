@@ -4,7 +4,6 @@ import numpy
 #   import matplotlib.pyplot as plt
 
 
-# Daniel Dor 205581770
 # Function for relu derivative, div = 1 if > 0, , as learned.
 def relu_derivative(x):
     return np.maximum(0, np.sign(x))
