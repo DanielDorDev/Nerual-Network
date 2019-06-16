@@ -2,6 +2,8 @@
 
 </p>Beginner two layer NN, hidden layer relu, output softmax, use MNIST Fashion, 10 class classification.</p>
 
+</p>Samples are 28X28 photos converted to uint pixel form</p>
+
 </p>Predict: 87%-90% accuracy.</p>
 
 ### Labels
